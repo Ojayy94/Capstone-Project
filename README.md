@@ -5,11 +5,13 @@ This project entails two aspects (i.e, 2 files)
 <br />
 <br />
 
-1. Capstone Project: Analyzing Sample Databases with Python or Power BI [Chinook](https://github.com/Ojayy94/Capstone-Project/blob/main/chinook(python%20script).pbix)
+## 1. Capstone Project: Analyzing Sample Databases with Python or Power BI
+   [Chinook](https://github.com/Ojayy94/Capstone-Project/blob/main/chinook(python%20script))
 
 
    <br />
 # PROJECT OVERVIEW
+<br />
 <br />
 - In this capstone project, I was tasked to analyze one of three sample databases (Chinook, Sakila, or Northwind—using either Python or Power BI.)
   <br />
@@ -18,9 +20,12 @@ This project entails two aspects (i.e, 2 files)
 - For the purpose of this project task, I chose Chinook.db
 
 <br />
+<br />
     
 	# OBJECTIVES
    <br />   
+<br />
+<br />
 Data Exploration: Understand the structure and content of the chosen database.
 <br />
 Data Analysis: Perform specific analyses to derive insights from the data.
@@ -32,22 +37,26 @@ Presentation: Compile findings into a comprehensive report or dashboard.
 
 
 <br />
-2. Additional database / dataset to form another task to work on. [Sales](https://github.com/Ojayy94/Capstone-Project/blob/main/)
+
+##2. Additional database / dataset to form another task to work on. [Sales](https://github.com/Ojayy94/Capstone-Project/blob/main/)
+<br />
 <br />
 
-
-   	# OBJECTIVES
+   	<br />
+    # OBJECTIVES
+   <br />
    
-   
+<br />
 Sourcing: Tasked to individually sought out for a database of my choice
-<br />
+<br /> <br />
 Preparation: Analyse and make explorative analysis on the report and generate impactful insights
-<br />
+<br /> <br />
 Presentation: Prepare an adequate report on you findings to stakeholders.
+<br /> <br />
+
 <br />
-
-
 **TASKS CARRIED OUT - CHINOOK**
+<br />
 <br />
 
 1. Identified the type of database to work with. The file properties indicates that it is a database file which ordinarily won't be loaded to Power BI directly
