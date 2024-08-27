@@ -115,10 +115,9 @@ Presentation: Prepare an adequate report on you findings to stakeholders.
 
 	It can also be assessed [here](https://www.canva.com/design/DAGNuuBFX3I/_XW_VuzIKfiuHfUHUZl5Fw/edit)
 
-<br />
+<br /> <br />
 
 2. Sales Analysis
-  <br />
        [Sales](https://www.canva.com/design/DAGN35OGgNM/bS0Qq1cYhp2Bfka1mk5oNg/view?utm_content=DAGN35OGgNM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 <br /> <br />
 
