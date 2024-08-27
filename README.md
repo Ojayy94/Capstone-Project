@@ -14,7 +14,7 @@ For the purpose of this project task, I chose Chinook.db
 
 
      
-      **OBJECTIVES**
+      GENERAL OBJECTIVES
       
 Data Exploration: Understand the structure and content of the chosen database.
 
