@@ -18,10 +18,8 @@ This project entails two aspects (i.e, 2 files)
 <br /> <br />
 - For the purpose of this project task, I chose Chinook.db
 <br /> <br />
-<br />
 
-	 OBJECTIVES
-   <br />   
+## OBJECTIVES   
 <br />
 <br />
 Data Exploration: Understand the structure and content of the chosen database.
@@ -39,8 +37,7 @@ Presentation: Compile findings into a comprehensive report or dashboard.
 <br />
 <br />
 
-   	<br />
-    # OBJECTIVES
+## OBJECTIVES
    <br /> 
 <br />
 Sourcing: Tasked to individually sought out for a database of my choice
@@ -51,20 +48,21 @@ Presentation: Prepare an adequate report on you findings to stakeholders.
 <br /> <br />
 
 <br />
+
 **TASKS CARRIED OUT - CHINOOK**
-<br />
+
 <br />
 
 1. Identified the type of database to work with. The file properties indicates that it is a database file which ordinarily won't be loaded to Power BI directly
-<br />
+<br /> <br />
 2. Researched on the seamless way to safely connect a database file to Power BI
-<br />
+<br /> <br />
 3. Wrote a python script (As a data source) which ensures a seamless connection with all constraints and data types intact
-<br />
+<br /> <br />
 4. Updated the model view of the data
-<br />
+<br /> <br />
 5. Exploratory data analysis, data cleaning using Power Query
-<br />
+<br /> <br />
 6. Identified with the appropriate visuals the following which are but not limited to;
 
    	a. Top-Selling Artists: Identify artists with the highest sales and analyze their sales trends over time.
@@ -78,13 +76,14 @@ Presentation: Prepare an adequate report on you findings to stakeholders.
    	e. Customer Lifetime Value (CLV): Calculate the lifetime value of customers based on their purchase history and provide recommendations for improving customer retention.
 
    	f. Market Basket Analysis: Perform association rule mining to find common combinations of tracks or albums purchased together.
-<br />
+<br /> <br />
 8. Prepared a concise presentation detailing the insights garnered from the analysis carried out. Details can be found [here](https://docs.google.com/document/d/1NVuKAm-d5sUYn-IybbB4wowRM300COwgVeef5nrmdhc/edit)
 
 
 <br />
 
 **TASKS CARRIED OUT - SALES ANALYSIS ON AOJr. Sales**
+
 <br />
 1. Researched on data source. The data used was resourced and pulled from kaggle
 <br />
