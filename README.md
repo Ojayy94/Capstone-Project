@@ -4,14 +4,18 @@ This is My Altschool Africa Capstone Project, August 2024
 This project entails two aspects (i.e, 2 files)
 
 1. Capstone Project: Analyzing Sample Databases with Python or Power BI [Chinook](https://github.com/Ojayy94/Capstone-Project/blob/main/chinook(python%20script).pbix)
+
+
    
-#**PROJECT OVERVIEW**
+#PROJECT OVERVIEW
 In this capstone project, I was tasked to analyze one of three sample databases (Chinook, Sakila, or Northwind—using either Python or Power BI.)
 The objective is to gain insights from the data and present findings through visualizations and reports.
 For the purpose of this project task, I chose Chinook.db
 
+
      
-      #**OBJECTIVES**
+      **OBJECTIVES**
+      
 Data Exploration: Understand the structure and content of the chosen database.
 
 Data Analysis: Perform specific analyses to derive insights from the data.
@@ -20,10 +24,14 @@ Visualization: Create visual reports to present findings.
 
 Presentation: Compile findings into a comprehensive report or dashboard.
 
+
+
+
 2. Additional database / dataset to form another task to work on. [Sales](https://github.com/Ojayy94/Capstone-Project/blob/main/Sales_v2.pbix)
 
 
-    #**OBJECTIVES**
+    **OBJECTIVES**
+   
 Sourcing: Tasked to individually sought out for a database of my choice
 
 Preparation: Analyse and make explorative analysis on the report and generate impactful insights
@@ -31,7 +39,10 @@ Preparation: Analyse and make explorative analysis on the report and generate im
 Presentation: Prepare an adequate report on you findings to stakeholders.
 
 
-##**TASKS CARRIED OUT - CHINOOK**
+
+**TASKS CARRIED OUT - CHINOOK**
+
+
 1. Identified the type of database to work with. The file properties indicates that it is a database file which ordinarily won't be loaded to Power BI directly
 2. Researched on the seamless way to safely connect a database file to Power BI
 3. Wrote a python script (As a data source) which ensures a seamless connection with all constraints and data types intact
@@ -47,7 +58,9 @@ Presentation: Prepare an adequate report on you findings to stakeholders.
 7. Prepared a concise presentation detailing the insights garnered from the analysis carried out. Details can be found [here](https://docs.google.com/document/d/1NVuKAm-d5sUYn-IybbB4wowRM300COwgVeef5nrmdhc/edit)
 
 
-#**TASKS CARRIED OUT - SALES ANALYSIS ON AOJr. Sales**
+
+
+**TASKS CARRIED OUT - SALES ANALYSIS ON AOJr. Sales**
 1. Researched on data source. The data used was resourced and pulled from kaggle
 2. Identified the file type. The file is a csv file
 3. Connect the file to Power BI
