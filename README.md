@@ -6,7 +6,7 @@ This project entails two aspects (i.e, 2 files)
 <br />
 
 ## 1. Capstone Project: Analyzing Sample Databases with Python or Power BI
-  [Chinook](https://github.com/Ojayy94/Capstone-Project/blob/main/chinook(python%20script))
+  [Chinook](https://github.com/Ojayy94/Capstone-Project/blob/main))
 
 <br />
 
@@ -32,7 +32,7 @@ Presentation: Compile findings into a comprehensive report or dashboard.
 <br /> <br />
 
 ## 2. Additional database / dataset to form another task to work on. 
-   [Sales](https://github.com/Ojayy94/Capstone-Project/blob/main/Sales_v2)
+   [Sales](https://github.com/Ojayy94/Capstone-Project/blob/main)
 <br /> <br />
 
 ## OBJECTIVES
