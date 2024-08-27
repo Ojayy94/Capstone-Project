@@ -6,22 +6,20 @@ This project entails two aspects (i.e, 2 files)
 <br />
 
 ## 1. Capstone Project: Analyzing Sample Databases with Python or Power BI
-   		[Chinook](https://github.com/Ojayy94/Capstone-Project/blob/main/chinook(python%20script))
-
+  [Chinook](https://github.com/Ojayy94/Capstone-Project/blob/main/chinook(python%20script))
 
    <br />
 # PROJECT OVERVIEW
 <br />
 <br />
 - In this capstone project, I was tasked to analyze one of three sample databases (Chinook, Sakila, or Northwind—using either Python or Power BI.)
-  <br />
+<br /> <br />
 - The objective is to gain insights from the data and present findings through visualizations and reports.
-  <br />
+<br /> <br />
 - For the purpose of this project task, I chose Chinook.db
+<br /> <br />
+<br />
 
-<br />
-<br />
-    
 	 OBJECTIVES
    <br />   
 <br />
@@ -37,15 +35,13 @@ Presentation: Compile findings into a comprehensive report or dashboard.
 <br />
 
 ## 2. Additional database / dataset to form another task to work on. 
-   [Sales](https://github.com/Ojayy94/Capstone-Project/blob/main/)
-
+   [Sales](https://github.com/Ojayy94/Capstone-Project/blob/main/Sales_v2)
 <br />
 <br />
 
    	<br />
     # OBJECTIVES
-   <br />
-   
+   <br /> 
 <br />
 Sourcing: Tasked to individually sought out for a database of my choice
 <br /> <br />
