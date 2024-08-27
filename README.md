@@ -1,18 +1,19 @@
 # Capstone-Project
 This is My Altschool Africa Capstone Project, August 2024
-
+<br />
 This project entails two aspects (i.e, 2 files)
-
+<br />
+<br />
 1. Capstone Project: Analyzing Sample Databases with Python or Power BI [Chinook](https://github.com/Ojayy94/Capstone-Project/blob/main/chinook(python%20script).pbix)
 
 
-   
+   <br />
 # PROJECT OVERVIEW
-In this capstone project, I was tasked to analyze one of three sample databases (Chinook, Sakila, or Northwind—using either Python or Power BI.)
-The objective is to gain insights from the data and present findings through visualizations and reports.
-For the purpose of this project task, I chose Chinook.db
+- In this capstone project, I was tasked to analyze one of three sample databases (Chinook, Sakila, or Northwind—using either Python or Power BI.)
+- The objective is to gain insights from the data and present findings through visualizations and reports.
+- For the purpose of this project task, I chose Chinook.db
 
-
+<br />
     
 	# OBJECTIVES
       
@@ -26,7 +27,7 @@ Presentation: Compile findings into a comprehensive report or dashboard.
 
 
 
-
+<br />
 2. Additional database / dataset to form another task to work on. [Sales](https://github.com/Ojayy94/Capstone-Project/blob/main/Sales_v2.pbix)
 
 
@@ -72,7 +73,7 @@ Presentation: Prepare an adequate report on you findings to stakeholders.
 8. Prepared a concise presentation detailing the insights garnered from the analysis carried out. Details can be found [here](https://docs.google.com/document/d/1NVuKAm-d5sUYn-IybbB4wowRM300COwgVeef5nrmdhc/edit)
 
 
-
+<br />
 
 **TASKS CARRIED OUT - SALES ANALYSIS ON AOJr. Sales**
 
@@ -93,7 +94,7 @@ Presentation: Prepare an adequate report on you findings to stakeholders.
 8. Prepared a concise presentation detailing the insights garnered from the analysis carried out.
 
 
-
+<br />
 # Capstone project Report - Presentation
 
 1. Chinook Database
